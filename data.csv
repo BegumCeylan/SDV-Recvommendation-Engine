@@ -1,0 +1,940 @@
+cuisine,Numbers of order,Customer_id
+Fast Food,10,1
+Cakes & Bakery,2,1
+Western,1,1
+Non-alcoholic Drinks,1,1
+Chinese,4,1
+Pizza,5,1
+Thai,1,1
+Indian,1,1
+American,2,1
+Vietnamese,2,1
+Singaporean,7,1
+Desserts,1,1
+American,6,2
+Fast Food,2,2
+Japanese,2,2
+Western,4,2
+Singaporean,14,2
+Chinese,11,2
+Pizza,2,2
+Vietnamese,1,2
+Burgers,6,2
+Malaysian,1,2
+Halal,1,3
+Italian,2,3
+Healthy Food,1,3
+Burgers,5,3
+Western,2,3
+Chinese,6,3
+Japanese,3,3
+European,1,3
+Singaporean,3,3
+Thai,2,3
+Cakes & Bakery,2,3
+Desserts,1,3
+Chicken,1,3
+Vietnamese,3,3
+Indian,1,3
+Korean,2,3
+American,1,3
+Fast Food,3,4
+Cakes & Bakery,1,4
+Melaka Portuguese,1,4
+Chinese,6,4
+Non-alcoholic Drinks,5,4
+Thai,1,4
+Healthy Food,2,4
+Singaporean,11,4
+American,2,4
+Western,1,4
+American,4,5
+Fast Food,2,5
+Singaporean,3,5
+Western,9,5
+Chinese,4,5
+Asian,2,5
+Indian,10,5
+Chicken,1,5
+Desserts,2,5
+Non-alcoholic Drinks,2,5
+Healthy Food,1,6
+Korean,1,6
+Singaporean,21,6
+Mexican,1,6
+Desserts,1,6
+Indian,2,6
+Japanese,3,6
+Sandwiches,3,6
+Chinese,7,6
+Fast Food,1,6
+Thai,1,6
+Pizza,1,6
+Cakes & Bakery,1,6
+Non-alcoholic Drinks,1,6
+Chinese,24,7
+Malaysian,3,7
+Non-alcoholic Drinks,3,7
+Singaporean,16,7
+Japanese,4,7
+Indonesian,1,7
+Thai,1,7
+Pizza,1,7
+Western,1,7
+Indian,2,7
+Healthy Food,1,7
+Chinese,14,8
+Burgers,3,8
+Singaporean,5,8
+International,1,8
+Healthy Food,1,8
+Western,1,8
+Korean,1,8
+Desserts,3,8
+Cakes & Bakery,1,8
+Thai,1,8
+Japanese,1,8
+Fast Food,2,8
+Vietnamese,1,8
+Indian,1,8
+Thai,1,9
+Chinese,4,9
+Chicken,9,9
+Singaporean,12,9
+Desserts,5,9
+Fast Food,2,9
+French,1,9
+Cakes & Bakery,2,9
+Non-alcoholic Drinks,1,9
+Burgers,6,9
+Japanese,1,9
+Healthy Food,1,9
+Fast Food,3,10
+Singaporean,14,10
+Healthy Food,1,10
+American,2,10
+Indian,1,10
+Chicken,2,10
+Western,3,10
+Asian,3,10
+Seafood,1,10
+Non-alcoholic Drinks,3,10
+Chinese,26,11
+Thai,3,11
+Seafood,4,11
+Indian,1,11
+Fast Food,13,11
+Indonesian,1,11
+American,1,12
+Chinese,16,12
+Seafood,2,12
+Chicken,1,12
+Fast Food,2,12
+Malaysian,4,12
+Singaporean,7,12
+Desserts,1,12
+Indian,5,13
+Fast Food,8,13
+Mexican,8,13
+Non-alcoholic Drinks,1,13
+Pizza,8,13
+Italian,1,13
+Burgers,2,14
+Non-alcoholic Drinks,7,14
+Pizza,1,14
+Singaporean,2,14
+Chinese,9,14
+Korean,1,14
+Fast Food,1,14
+Thai,1,14
+Vietnamese,1,14
+Japanese,1,14
+Desserts,2,14
+Middle Eastern,1,14
+Western,1,14
+Western,1,15
+American,3,15
+Seafood,4,15
+Chicken,2,15
+Singaporean,8,15
+Asian,5,15
+Indian,2,15
+Malay,3,15
+Chinese,6,16
+Vegetarian,3,16
+Fast Food,5,16
+Desserts,2,16
+Cakes & Bakery,2,16
+Singaporean,5,16
+Indian,3,16
+Non-alcoholic Drinks,6,16
+Healthy Food,2,16
+Italian,1,16
+Burgers,1,16
+Burgers,2,17
+Seafood,2,17
+Chinese,6,17
+Fast Food,2,17
+American,1,17
+Singaporean,1,17
+Western,14,17
+Asian,2,17
+Desserts,1,17
+Korean,1,17
+Vietnamese,1,17
+Indian,1,18
+Chinese,21,18
+Italian,1,18
+Japanese,4,18
+Singaporean,12,18
+Fast Food,1,18
+Cakes & Bakery,1,18
+Indian,12,19
+Chinese,19,19
+Seafood,10,19
+Singaporean,6,19
+Fast Food,11,20
+Japanese,4,20
+Singaporean,8,20
+Italian,4,20
+Chinese,13,20
+Asian,5,20
+Western,3,20
+American,1,20
+Desserts,1,20
+Thai,1,20
+Non-alcoholic Drinks,1,20
+Cakes & Bakery,1,20
+Pizza,1,20
+Non-alcoholic Drinks,12,21
+American,1,21
+Fast Food,10,21
+Indonesian,1,21
+Singaporean,1,21
+Japanese,1,21
+Healthy Food,1,21
+Indian,1,21
+Sandwiches,3,21
+Mexican,1,21
+Burgers,1,21
+Seafood,3,22
+Japanese,9,22
+Thai,3,22
+Chinese,19,22
+Korean,1,22
+Chinese,6,23
+Western,4,23
+Thai,1,23
+American,1,23
+Italian,1,23
+Singaporean,6,23
+Asian,5,23
+Filipino,12,23
+Chinese,18,24
+Singaporean,20,24
+Asian,1,24
+Turkish,2,24
+Japanese,1,24
+Non-alcoholic Drinks,1,24
+Mexican,7,25
+Singaporean,1,25
+American,2,25
+Italian,1,25
+Japanese,3,25
+Fast Food,4,25
+Pizza,7,25
+Chinese,4,25
+Western,1,25
+Non-alcoholic Drinks,4,25
+Desserts,1,25
+Burgers,3,25
+Sandwiches,1,25
+American,1,26
+Asian,3,26
+Chinese,2,26
+Filipino,25,26
+Chicken,1,26
+German,1,26
+Non-alcoholic Drinks,2,27
+Chinese,2,27
+Western,3,27
+Desserts,1,27
+Pizza,3,27
+Asian,3,27
+Cakes & Bakery,2,27
+Healthy Food,1,27
+Singaporean,10,27
+Indian,11,27
+European,1,27
+Burgers,1,27
+Chinese,15,28
+Indian,2,28
+Fast Food,2,28
+Korean,4,28
+Pizza,1,28
+Asian,7,28
+Burgers,1,28
+American,5,28
+Japanese,3,28
+Singaporean,12,28
+Non-alcoholic Drinks,1,28
+Western,1,28
+Healthy Food,1,28
+Chinese,13,29
+Singaporean,9,29
+Japanese,3,29
+Asian,3,29
+Burgers,4,29
+Western,1,29
+Healthy Food,2,29
+Non-alcoholic Drinks,1,29
+Desserts,1,29
+Fast Food,2,29
+Vietnamese,1,29
+Fast Food,1,30
+Non-alcoholic Drinks,2,30
+Asian,1,30
+Chinese,4,30
+Singaporean,10,30
+Western,1,30
+Healthy Food,4,30
+Desserts,2,30
+Vietnamese,1,30
+Thai,1,30
+Burgers,1,30
+Halal,1,30
+Singaporean,12,31
+Fast Food,2,31
+Italian,2,31
+Chinese,2,31
+Non-alcoholic Drinks,2,31
+Cakes & Bakery,4,31
+Healthy Food,1,31
+Western,2,31
+Korean,2,31
+Pizza,1,31
+Seafood,1,31
+Desserts,1,31
+Indian,1,31
+Chicken,1,31
+Non-alcoholic Drinks,1,32
+American,1,32
+Indian,10,32
+Singaporean,5,32
+Healthy Food,3,32
+International,1,32
+Chinese,9,32
+Fast Food,1,32
+Fast Food,4,33
+Chicken,4,33
+Halal,1,33
+Japanese,1,33
+Asian,2,33
+Healthy Food,2,33
+American,2,33
+Italian,1,33
+Thai,1,33
+Korean,2,33
+Singaporean,14,33
+Indian,4,33
+Western,4,33
+Indonesian,2,33
+Cakes & Bakery,2,33
+Chinese,2,33
+Singaporean,6,34
+Western,2,34
+Japanese,1,34
+Thai,1,34
+Chinese,5,34
+Non-alcoholic Drinks,1,34
+Italian,1,34
+Asian,1,34
+Korean,2,34
+Cakes & Bakery,1,34
+Fast Food,9,34
+Desserts,1,34
+Vietnamese,1,34
+Chinese,23,35
+Fast Food,5,35
+Western,2,35
+American,1,35
+Vegetarian,1,35
+Italian,1,36
+Seafood,5,36
+Japanese,1,36
+Singaporean,6,36
+Western,4,36
+Chinese,2,36
+Desserts,2,36
+American,3,36
+Chicken,1,36
+Thai,1,36
+Halal,1,36
+Fast Food,1,36
+Cakes & Bakery,1,36
+Thai,2,37
+Western,4,37
+Fast Food,5,37
+Chicken,1,37
+Indian,13,37
+Italian,2,37
+Singaporean,20,37
+Seafood,1,37
+Pizza,4,38
+Asian,8,38
+Malaysian,1,38
+Western,5,38
+Chinese,7,38
+Fast Food,8,38
+Singaporean,3,38
+Burgers,1,38
+Japanese,1,38
+Indian,2,38
+Singaporean,10,39
+Western,5,39
+Fast Food,17,39
+Italian,2,39
+Vietnamese,1,39
+Non-alcoholic Drinks,8,39
+Malay,1,40
+Indian,2,40
+Chinese,10,40
+Chicken,1,40
+Singaporean,3,40
+Seafood,1,40
+Japanese,3,40
+Korean,1,40
+American,2,40
+Desserts,1,40
+Pizza,4,40
+Healthy Food,2,40
+Singaporean,12,41
+Non-alcoholic Drinks,5,41
+Seafood,4,41
+Chinese,12,41
+European,1,41
+Indonesian,1,41
+Desserts,1,41
+Fast Food,1,41
+Asian,2,41
+Korean,2,41
+Healthy Food,2,41
+Thai,3,41
+Indian,1,41
+Chinese,3,42
+Non-alcoholic Drinks,1,42
+Indian,9,42
+Western,1,42
+Singaporean,11,42
+Desserts,2,42
+Fast Food,7,42
+Halal,2,42
+Western,2,43
+Indian,2,43
+Non-alcoholic Drinks,5,43
+Asian,5,43
+Singaporean,18,43
+Chinese,6,43
+Fast Food,1,43
+Cakes & Bakery,1,43
+Fast Food,6,44
+Singaporean,5,44
+Chinese,4,44
+Malaysian,1,44
+Chicken,7,44
+Western,1,44
+Desserts,3,44
+Non-alcoholic Drinks,1,44
+American,2,45
+Healthy Food,1,45
+Fast Food,10,45
+Chicken,2,45
+Burgers,2,45
+Pizza,2,45
+Western,3,45
+Asian,3,45
+Japanese,2,45
+Indonesian,1,45
+Korean,2,45
+Indian,1,45
+Singaporean,1,45
+Chinese,6,45
+Middle Eastern,1,46
+Pizza,1,46
+Healthy Food,2,46
+Indian,1,46
+Singaporean,5,46
+Japanese,5,46
+Cakes & Bakery,1,46
+Chinese,12,46
+Korean,1,46
+Indonesian,1,46
+Burgers,1,46
+Western,5,46
+Fast Food,1,46
+Seafood,2,46
+American,1,47
+Singaporean,8,47
+Indian,11,47
+Healthy Food,1,47
+Malay,8,47
+Chicken,1,47
+Chinese,1,47
+Japanese,4,48
+Indian,2,48
+Italian,9,48
+Non-alcoholic Drinks,4,48
+Fast Food,4,48
+Desserts,7,48
+Singaporean,1,48
+Healthy Food,1,48
+American,2,48
+Healthy Food,1,49
+Chinese,6,49
+Non-alcoholic Drinks,5,49
+Japanese,16,49
+Burgers,3,49
+Western,5,49
+Seafood,1,50
+Korean,2,50
+Chinese,28,50
+Non-alcoholic Drinks,2,50
+Asian,4,50
+Thai,1,50
+Burgers,1,50
+Vietnamese,1,50
+Chicken,3,50
+Fast Food,1,50
+Malaysian,1,50
+Fast Food,4,51
+Chinese,9,51
+Thai,1,51
+Vegetarian,2,51
+Non-alcoholic Drinks,5,51
+Cakes & Bakery,1,51
+Burgers,1,51
+Japanese,2,51
+Asian,7,51
+Japanese,2,52
+Chinese,12,52
+Cakes & Bakery,1,52
+Western,1,52
+Indian,5,52
+Singaporean,14,52
+Asian,3,52
+Thai,3,53
+Japanese,1,53
+Chinese,21,53
+Western,1,53
+Singaporean,2,53
+American,1,53
+Japanese,5,54
+Chinese,11,54
+Korean,2,54
+Burgers,1,54
+Indian,3,54
+Pizza,4,54
+Fast Food,1,54
+Asian,5,54
+Vietnamese,1,54
+Burgers,2,55
+Desserts,2,55
+Chinese,11,55
+Indian,1,55
+Non-alcoholic Drinks,1,55
+Western,1,55
+Fast Food,1,55
+Healthy Food,1,55
+Asian,3,55
+Singaporean,9,55
+Cakes & Bakery,1,55
+Singaporean,26,56
+Indian,18,56
+Non-alcoholic Drinks,11,56
+Fast Food,9,56
+Malaysian,1,56
+Burgers,1,56
+Cakes & Bakery,1,56
+Fast Food,4,57
+American,4,57
+Singaporean,13,57
+Cakes & Bakery,2,57
+Non-alcoholic Drinks,16,57
+Western,1,57
+Indian,1,57
+Halal,1,57
+Malay,2,57
+Asian,1,57
+Desserts,2,57
+Indian,1,58
+Chinese,3,58
+Chicken,9,58
+Italian,1,58
+Western,19,58
+Indian,40,59
+Italian,2,59
+Singaporean,9,59
+Chinese,2,59
+Fast Food,1,59
+Sandwiches,3,59
+Chicken,1,59
+Thai,1,59
+Burgers,1,59
+Non-alcoholic Drinks,1,59
+Chinese,9,60
+Japanese,4,60
+Vietnamese,2,60
+Thai,12,60
+Western,1,60
+Singaporean,4,60
+Malaysian,1,60
+Desserts,1,60
+Singaporean,18,61
+Japanese,5,61
+Healthy Food,4,61
+Fast Food,1,61
+Italian,1,61
+Indian,10,61
+Desserts,3,61
+Thai,1,61
+Chinese,2,61
+Singaporean,4,62
+Desserts,1,62
+Chinese,13,62
+American,3,62
+Non-alcoholic Drinks,3,62
+Vietnamese,1,62
+Healthy Food,2,62
+Thai,1,62
+Cakes & Bakery,1,62
+Western,1,62
+Chinese,5,63
+Sushi,6,63
+Western,1,63
+Indian,3,63
+Fast Food,5,63
+Korean,1,63
+Pizza,3,63
+Japanese,2,63
+Singaporean,5,63
+Indian,2,64
+Chinese,17,64
+Western,1,64
+Desserts,1,64
+Fast Food,3,64
+Asian,2,64
+Singaporean,7,64
+American,2,64
+Pizza,1,64
+Japanese,1,64
+Non-alcoholic Drinks,2,65
+Singaporean,7,65
+Chinese,26,65
+American,4,65
+Burgers,4,65
+Japanese,1,65
+Fast Food,5,65
+Healthy Food,1,65
+Cakes & Bakery,2,65
+Singaporean,4,66
+Sandwiches,10,66
+Western,6,66
+Japanese,1,66
+Vietnamese,4,66
+Healthy Food,2,66
+Chinese,4,66
+Chicken,1,66
+Non-alcoholic Drinks,1,66
+Thai,1,66
+Fast Food,1,66
+European,2,66
+Thai,2,67
+Chinese,17,67
+Western,9,67
+Fast Food,1,67
+Seafood,1,67
+Italian,5,68
+Pizza,1,68
+Japanese,1,68
+Non-alcoholic Drinks,11,68
+Fast Food,8,68
+Vietnamese,1,68
+Chinese,3,68
+Singaporean,19,68
+American,2,68
+Desserts,3,68
+Indian,1,68
+Chinese,3,69
+Japanese,10,69
+Fast Food,1,69
+Indian,6,69
+Singaporean,8,69
+American,3,69
+Asian,1,69
+Thai,2,69
+Chicken,1,69
+Mexican,1,69
+Western,1,70
+Japanese,1,70
+Italian,3,70
+Chinese,24,70
+Desserts,1,70
+Fast Food,2,71
+Singaporean,7,71
+Chicken,1,71
+Indonesian,5,71
+Burgers,7,71
+Non-alcoholic Drinks,1,71
+Western,1,71
+Chinese,18,71
+Fast Food,2,72
+Chinese,9,72
+Asian,7,72
+International,15,72
+Burgers,1,72
+Healthy Food,1,72
+American,3,73
+Burgers,1,73
+Indian,3,73
+Healthy Food,4,73
+Thai,3,73
+Singaporean,3,73
+European,1,73
+Desserts,2,73
+Asian,1,73
+Middle Eastern,2,73
+Mediterranean,1,73
+Korean,1,73
+Western,3,73
+Mexican,1,73
+Japanese,2,73
+Vietnamese,1,73
+Chinese,2,73
+Fast Food,6,74
+American,5,74
+Japanese,11,74
+Western,2,74
+Pizza,1,74
+Singaporean,9,74
+Chicken,2,74
+Chinese,19,75
+Thai,1,75
+Seafood,2,75
+Western,2,75
+Non-alcoholic Drinks,1,75
+Korean,1,75
+Japanese,1,75
+Singaporean,5,75
+Pizza,1,75
+Italian,1,75
+Cakes & Bakery,1,76
+Chinese,12,76
+Burgers,1,76
+Italian,1,76
+Singaporean,10,76
+Indian,1,76
+Western,1,76
+Malaysian,1,76
+Desserts,1,76
+Fast Food,1,77
+Chinese,19,77
+Desserts,1,77
+Singaporean,9,77
+Japanese,3,78
+Western,3,78
+Korean,1,78
+Healthy Food,5,78
+Fast Food,2,78
+Thai,2,78
+Cakes & Bakery,2,78
+Seafood,2,78
+Vietnamese,4,78
+Singaporean,8,78
+Chinese,8,78
+Mexican,1,78
+Asian,1,78
+Burgers,6,78
+Desserts,1,78
+Indian,2,78
+American,1,78
+Chinese,20,79
+Singaporean,7,79
+Japanese,4,79
+Asian,1,79
+American,1,79
+Singaporean,15,80
+Japanese,1,80
+Western,6,80
+Chinese,16,80
+Chicken,1,80
+Desserts,1,80
+Fast Food,1,80
+Singaporean,2,81
+Chinese,27,81
+Japanese,3,81
+Halal,1,81
+Pizza,1,81
+Korean,4,82
+Seafood,1,82
+American,3,82
+Chinese,26,82
+Singaporean,2,82
+Japanese,4,82
+Thai,4,82
+Non-alcoholic Drinks,1,82
+Indian,6,83
+Pizza,1,83
+Singaporean,4,83
+Chinese,5,83
+Japanese,4,83
+Asian,4,83
+American,2,83
+Vietnamese,1,83
+Western,8,83
+Fast Food,10,83
+Malaysian,2,83
+Thai,3,83
+Korean,2,83
+Seafood,3,83
+Italian,1,83
+Singaporean,2,84
+Healthy Food,2,84
+Desserts,1,84
+Fast Food,18,84
+Non-alcoholic Drinks,2,84
+Western,1,84
+Japanese,1,84
+Asian,1,84
+Cakes & Bakery,1,84
+Burgers,1,84
+Singaporean,18,85
+Pizza,3,85
+Vietnamese,1,85
+Japanese,1,85
+Chinese,60,85
+Fast Food,9,85
+Desserts,1,85
+Western,1,85
+Halal,1,85
+European,1,85
+Chinese,19,86
+Singaporean,4,86
+Halal,3,86
+Fast Food,3,86
+Korean,2,86
+Pizza,1,86
+Italian,1,86
+American,1,86
+Chicken,1,86
+Asian,1,86
+Chicken,7,87
+Indian,9,87
+American,5,87
+Japanese,3,87
+Burgers,1,87
+Singaporean,8,87
+Seafood,2,87
+Halal,4,87
+Non-alcoholic Drinks,4,87
+Chinese,1,87
+International,1,87
+Fast Food,4,88
+American,2,88
+Singaporean,18,88
+Indian,1,88
+Chinese,16,88
+Korean,2,88
+Desserts,1,89
+Chinese,10,89
+Indian,1,89
+Burgers,4,89
+Western,2,89
+Singaporean,11,89
+Malaysian,1,89
+American,1,89
+Japanese,1,89
+American,9,90
+Japanese,7,90
+Healthy Food,8,90
+Chinese,5,90
+Italian,3,90
+Western,5,90
+Singaporean,2,90
+Fast Food,4,91
+Western,8,91
+Singaporean,15,91
+Desserts,2,91
+Chinese,9,91
+Italian,4,91
+Japanese,2,91
+Chinese,16,92
+Fast Food,3,92
+Seafood,1,92
+Singaporean,9,92
+Western,1,92
+Asian,3,92
+Japanese,2,93
+American,2,93
+Non-alcoholic Drinks,8,93
+Fast Food,14,93
+Indian,4,93
+Pizza,1,93
+Singaporean,4,93
+Cakes & Bakery,1,93
+Desserts,1,93
+Italian,4,94
+Healthy Food,12,94
+Fast Food,2,94
+Singaporean,7,94
+Burgers,1,94
+Pizza,1,94
+Seafood,1,94
+Japanese,1,94
+Indian,2,95
+Chinese,7,95
+Non-alcoholic Drinks,4,95
+Singaporean,7,95
+Seafood,1,95
+Japanese,2,95
+Western,7,95
+Desserts,1,95
+Fast Food,7,96
+Chinese,25,96
+American,2,96
+Singaporean,7,96
+Turkish,7,96
+Chicken,2,96
+International,24,97
+Japanese,1,97
+Pizza,1,97
+American,1,97
+Italian,1,97
+Chinese,6,97
+Western,8,97
+Chicken,1,97
+Burgers,1,97
+Fast Food,2,98
+Singaporean,3,98
+Pizza,2,98
+Chinese,12,98
+Desserts,6,98
+Western,2,98
+Korean,9,98
+Non-alcoholic Drinks,1,98
+Desserts,3,99
+Fast Food,6,99
+Singaporean,1,99
+Non-alcoholic Drinks,1,99
+Western,2,99
+Asian,8,99
+Chinese,13,99
+Burgers,2,99
+Pizza,3,99
+Cakes & Bakery,1,99
+Chinese,18,100
+Fast Food,5,100
+Singaporean,4,100
+Chicken,2,100
+Indian,3,100
+Sandwiches,2,100
+Burgers,1,100
